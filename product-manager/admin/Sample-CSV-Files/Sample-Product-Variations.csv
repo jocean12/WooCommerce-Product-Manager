@@ -1,0 +1,20 @@
+post_name,parent_postname,post_status,sku,downloadable,virtual,manage_stock,stock,stock_status,regular_price,sale_price,weight,length,width,height,attribute:color,attribute:size,variation_description,product_image
+high-heel-shoe-12345-1,high-heel-shoe,publish,12345-1,no,no,yes,20,instock,24.95,10,2.5,10,12,14,Black,US 8,high-heel-shoe black us 8,https://static.heels.com/images/shoes/main_view/large/ZJS2032_MAIN_LG.jpg
+high-heel-shoe-12345-2,high-heel-shoe,publish,12345-2,no,no,yes,50,instock,24.95,12,3.5,12,14,16,Black,US 8.5,high-heel-shoe black us 8.5,https://static.heels.com/images/shoes/main_view/large/ZJS2032_MAIN_LG.jpg
+high-heel-shoe-12345-3,high-heel-shoe,publish,12345-3,no,no,yes,80,instock,24.95,14,4.5,14,16,18,Black,US 9,high-heel-shoe black us 9,https://static.heels.com/images/shoes/main_view/large/ZJS2032_MAIN_LG.jpg
+high-heel-shoe-12345-4,high-heel-shoe,publish,12345-4,no,no,yes,110,instock,24.95,16,5.5,16,18,20,Black,US 9.5,high-heel-shoe black us 9.5,https://static.heels.com/images/shoes/main_view/large/ZJS2032_MAIN_LG.jpg
+high-heel-shoe-12345-5,high-heel-shoe,publish,12345-5,no,no,yes,140,instock,29.95,18,6.5,18,20,22,Black,US 10,high-heel-shoe black us 10,https://static.heels.com/images/shoes/main_view/large/ZJS2032_MAIN_LG.jpg
+high-heel-shoe-12345-6,high-heel-shoe,publish,12345-6,no,no,yes,170,instock,29.95,20,7.5,20,22,24,Black,US 10.5,high-heel-shoe black us 10.5,https://static.heels.com/images/shoes/main_view/large/ZJS2032_MAIN_LG.jpg
+high-heel-shoe-12345-7,high-heel-shoe,publish,12345-7,no,no,yes,200,instock,24.95,22,8.5,22,24,26,White,US 8,high-heel-shoe white us 8,https://static.heels.com/images/shoes/main_view/large/ZTSAYS257_MAIN_LG.jpg
+high-heel-shoe-12345-8,high-heel-shoe,publish,12345-8,no,no,yes,230,instock,24.95,24,9.5,24,26,28,White,US 8.5,high-heel-shoe white us 8.5,https://static.heels.com/images/shoes/main_view/large/ZTSAYS257_MAIN_LG.jpg
+high-heel-shoe-12345-9,high-heel-shoe,publish,12345-9,no,no,yes,260,instock,24.95,26,10.5,26,28,30,White,US 9,high-heel-shoe white us 9,https://static.heels.com/images/shoes/main_view/large/ZTSAYS257_MAIN_LG.jpg
+high-heel-shoe-12345-10,high-heel-shoe,publish,12345-10,no,no,yes,290,instock,24.95,28,11.5,28,30,32,White,US 9.5,high-heel-shoe white us 9.5,
+high-heel-shoe-12345-11,high-heel-shoe,publish,12345-11,no,no,yes,320,instock,29.95,30,12.5,30,32,34,White,US 10,high-heel-shoe white us 10,https://static.heels.com/images/shoes/main_view/large/ZTSAYS257_MAIN_LG.jpg
+high-heel-shoe-12345-12,high-heel-shoe,publish,12345-11,no,no,no,350,outofstock,29.95,32,13.5,32,34,36,White,US 10.5,high-heel-shoe white us 10.5,https://static.heels.com/images/shoes/main_view/large/ZTSAYS257_MAIN_LG.jpg
+running-shoe-12346-1,running-shoe,publish,12346-1,yes,yes,no,380,outofstock,39.95,34,14.5,34,36,38,Red,US 7.5,running-shoe Red us 7.5,https://static1.heels.com/images/shoes/main_view/large/ZSM984_MAIN_LG.jpg
+running-shoe-12346-2,running-shoe,publish,12346-2,yes,yes,no,410,outofstock,39.95,36,15.5,36,38,40,Blue,US 8,running-shoe Blue us 8,https://static3.heels.com/images/shoes/main_view/large/ZJS2030_MAIN_LG.jpg
+running-shoe-12346-3,running-shoe,publish,12346-3,yes,yes,no,440,outofstock,39.95,38,16.5,38,40,42,Black,US 8.5,running-shoe Black us 8.5,
+running-shoe-12346-4,running-shoe,publish,12346-4,yes,yes,no,470,outofstock,34.95,40,17.5,40,42,44,Red,US 9,running-shoe Red us 9,https://static1.heels.com/images/shoes/main_view/large/ZSM984_MAIN_LG.jpg
+running-shoe-12346-5,running-shoe,publish,12346-5,yes,yes,no,500,outofstock,34.95,42,18.5,42,44,46,Blue,US 9.5,running-shoe Blue us 9.5,https://static3.heels.com/images/shoes/main_view/large/ZJS2030_MAIN_LG.jpg
+running-shoe-12346-6,running-shoe,publish,12346-6,yes,no,no,530,outofstock,34.95,44,19.5,44,46,48,Black,US 10,running-shoe Black us 10,
+running-shoe-12346-7,running-shoe,publish,12346-7,no,no,no,560,outofstock,34.95,46,20.5,46,48,50,Red,US 10.5,running-shoe Red us 10.5,https://static1.heels.com/images/shoes/main_view/large/ZSM984_MAIN_LG.jpg

@@ -1,0 +1,15 @@
+id,sku,Manage stock,Stock status,Backorders,Stock,Type,Parent ID
+103,12345566,yes,instock,no,698,simple,
+101,123456633,yes,instock,no,495,simple,
+96,,,,,0,simple,
+32,1000,no,instock,no,0,variable,
+36,1000-1,yes,instock,no,200,product-variant,32
+35,1000-2,yes,instock,no,100,product-variant,32
+34,1000-3,yes,instock,no,150,product-variant,32
+33,1000-4,yes,instock,no,250,product-variant,32
+30,2000,yes,instock,no,290,simple,
+28,2001,yes,instock,no,180,simple,
+26,2002,yes,instock,no,2500,simple,
+24,3000,yes,instock,notify,148,simple,
+22,3001,yes,instock,no,2000,simple,
+18,3002,yes,instock,no,2998,simple,

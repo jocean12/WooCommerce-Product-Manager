@@ -1,0 +1,22 @@
+id,sku,Manage stock,Stock status,Backorders,Stock,Type,Parent ID
+130,10987654234600,yes,instock,no,365,simple,
+131,10987654234601,yes,instock,no,366,simple,
+132,10987654234602,yes,instock,no,367,simple,
+133,10987654234603,yes,instock,no,368,simple,
+134,10987654234604,yes,instock,no,369,simple,
+135,10987654234605,yes,instock,no,370,simple,
+136,10987654234606,yes,instock,no,371,simple,
+137,10987654234607,yes,instock,no,372,simple,
+138,10987654234608,yes,instock,no,373,simple,
+139,10987654234609,no,instock,no,374,variable,
+140,10987654234610,yes,instock,no,375,product-variant,139
+141,10987654234611,yes,instock,no,376,product-variant,139
+142,10987654234612,yes,instock,no,377,product-variant,139
+143,10987654234613,yes,instock,no,378,product-variant,139
+144,10987654234614,yes,instock,no,379,simple,
+145,10987654234615,yes,instock,no,380,simple,
+146,10987654234616,yes,instock,no,381,simple,
+147,10987654234617,yes,instock,notify,382,simple,
+148,10987654234618,yes,instock,no,383,simple,
+149,10987654234619,no,instock,no,384,simple,
+18,10987654234620,yes,instock,no,385,simple,

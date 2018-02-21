@@ -1,0 +1,40 @@
+/woocommerce-stock-manager.php
+
+1. Change Plugin Name to "Product Manager"
+
+/admin/views/class-stock-manager-admin.php
+
+1. Change plug in display name to "Product Manager" in function add_plugin_admin_menu() -> add_menu_page
+2. Add sub menu to show Stock Adjust History
+
+/admin/views/admin.php
+
+1. Add text field to filter on sku number
+2. Remove redundant 'save' button
+3. Add Column "Adjust Stock" and set "Stock" column to be readonly.
+4. Update "Sku" column to pass sku data to database
+
+/admin/views/inventory-history.php
+1. Add this php to show the stock adjust history.
+
+
+/admin/includes/wcm-class-stock.php
+
+1. Delete redundent function get_all_products(), which is the same as get_products(), then update function pagination() as it is the only function use get_all_product()
+
+2. Reprogram get_products() function to allow multiple level filter. Add filter for sku.
+3. Add get_stock_adjust_history() function to get stock adjust history
+
+/adimn/assets/js/admin.js
+1. Adjust the js to adjust the stock and stockadjust column
+2. Add code to modify the data in stock and stockadjust column after data updated
+3. Update Stock_status when stock greater than 0 and less than 0 and jQuery handle color
+
+/Woocommerce-stock-manager.php
+1. Modify stock_manager_save_one_product_stock_data() function, return stock information, then update the stock and stockadjust column in admin.js
+2. Update Stock_status when stock changes
+3. Store Inventory update history in database;
+
+
+
+

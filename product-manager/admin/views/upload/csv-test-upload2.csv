@@ -1,0 +1,7 @@
+sku,Manage stock,Stock status,Backorders,Stock,Type,Parent SKU,Title
+1098765432100,yes,instock,no,365,simple,,CSV File Upload test 1
+1098765432101,yes,instock,no,366,simple,,CSV File Upload test 2
+1098765432102,yes,instock,no,367,simple,,CSV File Upload test 3
+1098765432103,yes,instock,no,368,simple,,CSV File Upload test 4
+1098765432104,yes,instock,no,369,simple,,CSV File Upload test 5
+1098765432105,yes,instock,no,370,simple,,CSV File Upload test 6
